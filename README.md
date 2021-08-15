@@ -22,7 +22,7 @@ which has links to all the sections of the web-page.
 ## Links
 Repository link: https://github.com/Mahmoudcali02/personal-portfolio
 
-Deployed link: 
+Deployed link: https://mahmoudcali02.github.io/personal-portfolio/#index.html
 
 ## Screeenshots 
 ![Image of home section](images/home-page.JPG)
