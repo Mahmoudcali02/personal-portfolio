@@ -31,7 +31,7 @@ Deployed link:
 
 ![Image of project section](images/projects-page.JPG)
 
-![Image of contact section](images\contact-page.JPG)
+![Image of contact section](images/contact-page.JPG)
 
 ## References and tutorials used
 Bootstrap: https://getbootstrap.com/
