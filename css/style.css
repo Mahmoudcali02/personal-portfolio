@@ -10,7 +10,6 @@
     box-sizing: border-box;
     outline: none; border:none;
     text-decoration: none;
-    text-transform: capitalize;
     transition: all .2s linear;
     line-height: 1.5;
 }
@@ -25,6 +24,8 @@ body{
     background: #ffe3ac;
     padding-left: 30rem;
 }
+
+
 
 section{
     padding:1rem 5%;
@@ -327,6 +328,10 @@ header .follow a:hover{
 .skills-container {
     margin-left: 1rem;
     font-size: 80px;
+}
+
+.skills-container .heading {
+    margin-bottom: 4.5rem;
 }
 
 
