@@ -331,9 +331,9 @@ header .follow a:hover{
 }
 
 .skills-container .heading {
-    margin-bottom: 4.5rem;
+    margin-bottom: 4rem;  
+    margin-top: 12rem;
 }
-
 
 
 .about .row-2 .box-container .box h3{
@@ -440,6 +440,10 @@ header .follow a:hover{
     gap:1.5rem;
 }
 
+.portfolio .heading {
+    margin-top: 6rem;
+}
+
 .portfolio .box-container .box{
     flex:1 1 30rem;
     height:25rem;
@@ -465,12 +469,15 @@ header .follow a:hover{
     width:75%;
 }
 
-.portfolio .box-container .box h3{
-    position: absolute;
+.portfolio .box-container .box p{
+    position: relative;
     bottom:.5rem; left:1rem;
-    font-size: 2.5rem;
+    margin-top: 1rem;
+    font-size: 1.5rem;
     color:#333;
-    text-transform: uppercase;
+}
+.portfolio .box-container .box h1{
+    font-size: 2.2rem;
 }
 
 .portfolio .box-container .box .icons{
@@ -489,6 +496,10 @@ header .follow a:hover{
     line-height: 4rem;
     text-align: center;
     margin-bottom: 1rem;
+}
+
+.portfolio .portfolio-heading {
+    font-size: 10x;
 }
 
 .portfolio .box-container .box .icons a:hover{
@@ -521,6 +532,7 @@ header .follow a:hover{
     color:#fff;
     border-radius: 50%;
 }
+
 
 .contact .icons-container .icons h3{
     color:#111;
