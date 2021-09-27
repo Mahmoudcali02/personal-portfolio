@@ -21,7 +21,7 @@ html{
 }
 
 body{
-    background: #ffe3ac;
+    background:#9fb8eb; 
     padding-left: 30rem;
 }
 
@@ -62,7 +62,7 @@ section{
 header{
     position: fixed;
     top:0; left:0; bottom:0;
-    background:#222;
+    background:#66bfbf;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -217,12 +217,12 @@ header .follow a:hover{
 }
 
 .about .row-1 .image img{
-    height: 60%;
-    width: 70%;
+    height: 80%;
+    width: 100%;
     object-fit: cover;
-    border:1rem solid #fff;
+    border: 0.3rem solid black;
     border-radius: .5rem;
-    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    box-shadow: 0 .5rem 1rem rgba(53, 135, 211, 0.1);
 }
 
 .about .row-1 .content{
