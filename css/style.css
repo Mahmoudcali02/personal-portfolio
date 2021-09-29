@@ -521,7 +521,7 @@ header .follow a:hover{
     flex:1 1 25rem;
     text-align: center;
     padding:2rem;
-    background:#fff;
+    background:#074261;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
     border-radius: .5rem;
 }
@@ -545,7 +545,8 @@ header .follow a:hover{
 }
 
 .contact .icons-container .icons p{
-    color:#666;
+    color: #fff;
+    ;
     font-size: 1.7rem;
 }
 
