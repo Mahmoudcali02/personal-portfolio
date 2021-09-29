@@ -22,9 +22,7 @@ html{
 
 body{
     background-image: url(../images/background2.jpg);
-    background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.;
     padding-left: 30rem;
 }
 
@@ -613,23 +611,6 @@ header .follow a:hover{
 .footer span{
     color:var(--main-color);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* media queries  */
 @media (max-width:991px){
