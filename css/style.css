@@ -21,7 +21,7 @@ html{
 }
 
 body{
-    background-image: url(../images/background2.jpg);
+    background: rgb(199, 198, 198);
     background-size: cover;
     padding-left: 30rem;
 }
