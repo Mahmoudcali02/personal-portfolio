@@ -34,3 +34,4 @@ document.querySelectorAll('a').forEach(links =>{
     }
 
 });
+
