@@ -697,3 +697,13 @@ h1 {
       margin-left: 45px
   }
 
+  .project-span{
+    font-size: 1.4rem;
+    color: black;
+    font-weight: bold;
+  }
+
+  .project-span span{
+      font-size: 1.4rem;
+      color: #074261
+  }
